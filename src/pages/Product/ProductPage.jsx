@@ -20,12 +20,12 @@ export default function ProductPage() {
       value: 'all'
     },
     {
-      label: 'Men\'s Shoes',
-      value: 'menshoes'
+      label: 'Men\'s karakter',
+      value: 'Lanang'
     },
     {
-      label: 'Women\'s Shoes',
-      value: 'womenshoes'
+      label: 'Women\'s Karakter',
+      value: 'Ladies'
     },
   ]
 
